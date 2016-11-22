@@ -1,0 +1,49 @@
+.container {
+
+        padding: 1em;
+        position: absolute;
+        top: 20%;
+        left: 30%;
+        margin-right: -30%;
+
+}
+body{
+	
+	background: url('../images/blue.jpg') ;
+        background-size: cover;
+   	background-repeat: no-repeat;
+height:100%
+    }
+
+.form-group{
+  width: 500px;
+    height: 100px;
+
+    box-sizing: border-box;
+}
+h4.hel{
+color:#fff;
+}
+h1.cont
+{
+color:#fff;
+}
+.section{
+padding-left:15px;
+padding-right:20px;
+
+
+}
+.pa{
+       margin-left: 280px;
+    margin-right: 330px;
+}
+.nam{
+margin-left: 425px;
+border-radius:20px;
+
+}
+input#name{
+width:55%;
+
+}

@@ -1,0 +1,44 @@
+.container {
+
+        padding: 1em;
+        position: absolute;
+        top: 60%;
+        left: 30%;
+        margin-right: -30%;
+
+}
+body{
+	
+	background: url('../images/blg.jpg') ;
+        background-size: cover;
+   	background-repeat: no-repeat;
+height:100%
+    }
+
+.form-group{
+  width: 500px;
+    height: 100px;
+
+    box-sizing: border-box;
+}
+
+
+.section{
+padding-left:15px;
+padding-right:20px;
+
+
+}
+.pa{
+       margin-left: 350px;
+    margin-right: 330px;
+}
+.nam{
+margin-left: 425px;
+border-radius:20px;
+
+}
+input#name{
+width:54%;
+
+}
